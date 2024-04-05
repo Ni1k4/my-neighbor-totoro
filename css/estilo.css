@@ -1,0 +1,150 @@
+.banner {
+	width:100%;
+	height:20vh;
+	background-color:#CFE0BC;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+.banner img{
+	width: auto;
+	height: 15vh;
+	display: flex;
+	justify-content: flex-end;
+	margin-right: 2vh;
+
+}
+.logo{
+	width:auto;
+	height:110%;
+	background-color:#628a4c ;
+	align-items: center;
+	justify-content: center;
+	color:black;
+}
+.rodape{
+	width:100%;
+	height:20vh;
+	background-color:#CFE0BC;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+.rodape h1{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	color: black;
+}
+.baner{
+	width:100%;
+	height:20vh;
+	background-color:#7a695d;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+.baner img{
+	width: auto;
+	height: 20vh;
+	display: flex;
+	justify-content: flex-end;
+	margin-right: 3vh;
+	margin-left: 3vh;
+	border-radius:2vh ;
+}
+.log{
+	width:auto;
+	height:110%;
+	background-color: beige;
+	align-items: center;
+	justify-content: center;
+	color: brown;
+	
+}
+.log h2{
+	color: brown;
+	font-size: 20px;
+}
+.log p{
+	display: flex;
+	color: black;
+    font-size: 30px;
+}
+.rodap{
+	width:100%;
+	height:20vh;
+	background-color:#7a695d;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+.rodap h1{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	color: black;
+}
+.bener{
+	width:110%;
+	height:20vh;
+	background-color:#FFD972;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+.loog{
+	width:auto;
+	height:110%;
+	background-color:#FFFF9A;
+	justify-content: center;
+	display: flex;
+	flex-direction: column;
+}
+.loog img{
+	margin-left: 5vh;
+	margin-right: 5vh;
+	margin-bottom: 5vh;
+	border-radius: 10vh;
+
+}
+.rodapé{
+	width:110%;
+	height:20vh;
+	background-color:#FFD972;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+.rodapé h1{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	color: black;
+}
+.loog2{
+	display: flex;
+	width: 20%;
+	height: 40vh;
+	flex-direction: column;
+	text-align: center;
+	align-items: center;
+	font-family: sans-serif;
+	
+}
+.loog{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	width: 110%;
+	height: auto;
+	flex-direction: column;
+}
+.n{
+	color: brown;
+	font-size: 3vh;
+}
+.a{
+	color: black;
+	font-size: 2vh;
+}
